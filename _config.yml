@@ -1,5 +1,43 @@
-title: "Conectómica Cerebral Humana: Base de Datos de Conectividad E"
-description: "Repositorio de bases de datos sobre conectómica cerebral humana: conectividad estructural (DTI, tractografía) y funcional (fMRI), incluyendo mapas de "
-author: "Juan Moisés de la Serna Tuya"
+# Jekyll configuration for GitHub Pages
+title: "conectomica-cerebral-humana-base-de-datos-de-conectividad-estructural-y-funciona"
+description: "Repositorio de bases de datos sobre conectómica cerebral humana: conectividad estructural (DTI, tractografía) y funcional (fMRI), incluyendo mapas de redes cerebrales y variabilidad interindividual. Datos compilados y organizados para investigación e"
 url: "https://juanmoisesd.github.io"
 baseurl: "/conectomica-cerebral-humana-base-de-datos-de-conectividad-estructural-y-funciona"
+
+author:
+  name: "Juan Moisés de la Serna Tuya"
+  orcid: "0000-0002-8401-8018"
+  linkedin: "https://www.linkedin.com/in/juanmoisesdelaserna/"
+  scopus: "26632846700"
+  institution: "Universidad Internacional de La Rioja (UNIR)"
+  email: "juanmoises.delaserna@unir.net"
+
+# SEO
+tagline: "Open Research Dataset"
+lang: "en"
+
+# Social
+twitter:
+  username: juanmoisesd
+  card: summary
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Build
+theme: minima
+include:
+  - README.md
+  - GLOSSARY.md
+  - ABOUT_THE_AUTHOR.md
+  - CITATION_GUIDE.md
+
+# Exclude
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
