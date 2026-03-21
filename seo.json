@@ -1,0 +1,19 @@
+{
+  "title": "Repositorio de bases de datos sobre conectómica cerebral humana: conectividad estructural (DTI, tractografía) y funcional (fMRI), incluyendo mapas de redes cerebrales y variabilidad interindividual. Datos compilados y organizados para investigación e",
+  "description": "Repositorio de bases de datos sobre conectómica cerebral humana: conectividad estructural (DTI, tractografía) y funcional (fMRI), incluyendo mapas de redes cere",
+  "keywords": "cc0, dataset, open-data, zenodo",
+  "author": "Juan Moisés de la Serna Tuya",
+  "orcid": "https://orcid.org/0000-0002-8401-8018",
+  "canonical": "https://juanmoisesd.github.io/conectomica-cerebral-humana-base-de-datos-de-conectividad-estructural-y-funciona/",
+  "og:title": "Repositorio de bases de datos sobre conectómica cerebral humana: conectividad estructural (DTI, tractografía) y funcional (fMRI), incluyendo mapas de redes cerebrales y variabilidad interindividual. Datos compilados y organizados para investigación e",
+  "og:description": "Repositorio de bases de datos sobre conectómica cerebral humana: conectividad estructural (DTI, tractografía) y funcional (fMRI), incluyendo mapas de redes cerebrales y variabilidad interindividual. D",
+  "og:url": "https://juanmoisesd.github.io/conectomica-cerebral-humana-base-de-datos-de-conectividad-estructural-y-funciona/",
+  "og:type": "dataset",
+  "twitter:card": "summary",
+  "twitter:title": "Repositorio de bases de datos sobre conectómica cerebral humana: conectividad estructural (DTI, tractografía) y funcional (fMRI), incluyendo mapas de redes cerebrales y variabilidad interindividual. Datos compilados y organizados para investigación e",
+  "twitter:description": "Repositorio de bases de datos sobre conectómica cerebral humana: conectividad estructural (DTI, tractografía) y funcional (fMRI), incluyendo mapas de redes cere",
+  "schema_type": "Dataset",
+  "license": "CC0-1.0",
+  "datePublished": "2026-03-20",
+  "language": "es, en"
+}
