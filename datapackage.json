@@ -1,0 +1,34 @@
+{
+  "name": "conectomica-cerebral-humana-base-de-datos-de-conectividad-estructural-y-funciona",
+  "title": "Repositorio de bases de datos sobre conectómica cerebral humana: conectividad estructural (DTI, tractografía) y funcional (fMRI), incluyendo mapas de redes cerebrales y variabilidad interindividual. Datos compilados y organizados para investigación e",
+  "description": "Repositorio de bases de datos sobre conectómica cerebral humana: conectividad estructural (DTI, tractografía) y funcional (fMRI), incluyendo mapas de redes cerebrales y variabilidad interindividual. Datos compilados y organizados para investigación e",
+  "version": "1.0.0",
+  "licenses": [
+    {
+      "name": "CC0-1.0",
+      "title": "CC0 1.0 Universal",
+      "path": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Juan Moisés de la Serna Tuya",
+      "path": "https://orcid.org/0000-0002-8401-8018",
+      "role": "author",
+      "organization": "Universidad Internacional de La Rioja (UNIR)"
+    }
+  ],
+  "keywords": [
+    "cc0",
+    "dataset",
+    "open-data",
+    "zenodo"
+  ],
+  "sources": [
+    {
+      "title": "Compiled from public sources",
+      "path": "https://github.com/juanmoisesd/conectomica-cerebral-humana-base-de-datos-de-conectividad-estructural-y-funciona"
+    }
+  ],
+  "created": "2026-03-20"
+}
